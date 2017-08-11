@@ -1,3 +1,4 @@
+
 #淘宝
 1.193.218.106   m.taobao.com
 
@@ -7,6 +8,7 @@
 
 #微博
 180.149.153.216   m.weibo.cn
+180.149.139.242   video.weibo.com
 
 #斗地主
 1.199.93.156    hlddz.huanle.qq.com
