@@ -1,5 +1,9 @@
+#baidu
 220.181.57.217   baidu.com
 220.181.57.217   baidu.com/#
+
+
+#twitter
 104.244.42.1   twitter.com
 104.244.42.1   mobile.twitter.com
 192.0.78.12    zh-cn.wordpress.com
@@ -7,7 +11,7 @@
 
 192.64.119.179   yobt.com
 
-#bbc  chin
+#bbc  chinese
 
 
 
