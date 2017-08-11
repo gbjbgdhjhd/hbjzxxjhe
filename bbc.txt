@@ -1,3 +1,6 @@
+#斗地主
+1.199.93.156    hlddz.huanle.qq.com
+
 #baidu
 220.181.57.217   baidu.com
 220.181.57.217   baidu.com/#
