@@ -1,2 +1,7 @@
-﻿#bbc  chin
+192.64.119.179   yobt.com
+
+#bbc  chin
+
+
+
 151.101.72.81  bbc.com/zhongwen/simp
