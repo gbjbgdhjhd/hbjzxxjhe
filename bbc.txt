@@ -1,3 +1,6 @@
+#微博
+180.149.153.216   m.weibo.cn
+
 #斗地主
 1.199.93.156    hlddz.huanle.qq.com
 
