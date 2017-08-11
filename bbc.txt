@@ -1,3 +1,4 @@
+192.0.78.17    zh-cn.wordpress.com
 192.0.78.17    wordpress.com
 
 192.64.119.179   yobt.com
