@@ -109,3 +109,5 @@
 104.131.159.229   redchinacn.org
 35.187.157.251   sanjie.me  
 31.13.92.10   redtube.com
+123.125.112.13  cdn.baidupcs.com
+123.125.112.13  hot.cdn.baidupcs.com
