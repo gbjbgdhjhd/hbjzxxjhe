@@ -111,3 +111,4 @@
 31.13.92.10   redtube.com
 123.125.112.13  cdn.baidupcs.com
 123.125.112.13  hot.cdn.baidupcs.com
+119.75.222.98   d.pcs.baidu.com
