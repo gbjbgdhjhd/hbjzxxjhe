@@ -52,7 +52,7 @@
 110.4.24.178 urls-real.api.twitter.com 
 110.4.24.178 userstream.twitter.com 
 110.4.24.178 sitestream.twitter.com 
-110.4.24.178 stream.twitter.com 
+172.217.11.78110.4.24.178 stream.twitter.com 
 110.4.24.178 tdweb.twitter.com 
 173.236.110.98 twitpic.com 
 173.236.110.98 m1.twitpic.com 
@@ -109,3 +109,4 @@
 123.125.112.13  cdn.baidupcs.com
 123.125.112.13  hot.cdn.baidupcs.com
 119.75.222.98   d.pcs.baidu.com
+172.217.11.78  plus.google.com
