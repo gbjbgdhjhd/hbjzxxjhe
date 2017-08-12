@@ -110,3 +110,4 @@
 123.125.112.13  hot.cdn.baidupcs.com
 119.75.222.98   d.pcs.baidu.com
 172.217.11.78  plus.google.com
+117.169.69.195   m.pptv.com
