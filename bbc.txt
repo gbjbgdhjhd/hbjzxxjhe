@@ -59,6 +59,7 @@
 173.236.110.98 web1.twitpic.com 
 173.236.110.98 web10.twitpic.com 
 173.236.110.98 web2.twitpic.com 
+
 173.236.110.98 web3.twitpic.com 
 173.236.110.98 web4.twitpic.com 
 173.236.110.98 web5.twitpic.com 
@@ -111,3 +112,5 @@
 119.75.222.98   d.pcs.baidu.com
 172.217.11.78  plus.google.com
 117.169.69.195   m.pptv.com
+
+35.186.231.252   m.cn.nytimes.com
