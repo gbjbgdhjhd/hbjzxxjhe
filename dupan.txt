@@ -1,0 +1,26 @@
+﻿111.13.12.44  bcscdn.baidu.com
+111.13.12.44  bj.baidupcs.com
+111.13.12.44  bj.bcs.baidu.com
+111.13.12.44  bj.dl2.baidupcs.com
+111.13.12.44  cdn.baidupcs.com
+111.13.12.44  cm.sh.dl.baidupcs.com
+111.13.12.44  cm.sh.dl2.baidupcs.com
+111.13.12.44  cm.sh.dl3.baidupcs.com
+111.13.12.44  d.pcs.baidu.com
+111.13.12.44  hot.baidupcs.com
+111.13.12.44  hot.cdn.baidupcs.com
+111.13.12.44  lx.cdn.baidupcs.com
+111.13.12.44  nb.baidupcs.com
+111.13.12.44  nb.cache.baidupcs.com
+111.13.12.44  nb.poms.baidupcs.com
+111.13.12.44  nj.baidupcs.com
+111.13.12.44  nj.cache.baidupcs.com
+111.13.12.44  nj.poms.baidupcs.com
+111.13.12.44  pcs.baidu.com
+111.13.12.44  qd.baidupcs.com
+111.13.12.44  qd.cache.baidupcs.com
+111.13.12.44qd.poms.baidupcs.com
+111.13.12.44  qd2.cache.baidupcs.com
+111.13.12.44  small.cdn.baidupcs.com
+111.13.12.44  ws.cdn.baidupcs.com
+111.13.12.44  www.baidupcs.com
