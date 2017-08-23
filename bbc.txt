@@ -106,12 +106,11 @@
 174.37.200.231   6park.com
 104.131.159.229   redchinacn.org
 35.187.157.251   sanjie.me  
-31.13.92.10   redtube.com
-123.125.112.13  cdn.baidupcs.com
-123.125.112.13  hot.cdn.baidupcs.com
-119.75.222.98   d.pcs.baidu.com
+31.13.92.10   redtube.com
+111.13.12.44  cdn.baidupcs.com
+111.13.12.44  hot.cdn.baidupcs.com
+111.13.12.44   d.pcs.baidu.com
 172.217.11.78  plus.google.com
 117.169.69.195   m.pptv.com
 
 35.186.231.252   m.cn.nytimes.com
-119.75.222.98  d.pcs.baidu.com
