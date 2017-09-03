@@ -117,4 +117,4 @@
 
 192.161.147.1   support.hotspotshield.com
 104.27.216.28    thepiratebay.org
-104.27.217.28    m.thepiratebay.org
+104.27.216.28    m.thepiratebay.org
