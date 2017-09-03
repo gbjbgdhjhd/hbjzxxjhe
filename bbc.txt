@@ -116,3 +116,4 @@
 35.186.231.252   m.cn.nytimes.com
 
 192.161.147.1   support.hotspotshield.com
+104.27.216.28    thepiratebay.org
