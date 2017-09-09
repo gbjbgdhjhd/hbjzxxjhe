@@ -7,7 +7,7 @@
 1.193.218.106   m.taobao.com
 
 #智机网
-125.39.174.83    bbs.wfun.com
+157.255.26.162    bbs.wfun.com
 
 
 #微博
