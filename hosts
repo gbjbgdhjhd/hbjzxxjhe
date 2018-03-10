@@ -1,0 +1,35 @@
+# Copyright (c) 2014-2017, racaljk.
+# https://github.com/racaljk/hosts
+# Last updated: 2017-09-20
+
+# https://laod.cn/hosts/2017-google-hosts.html
+
+# This work is licensed under a CC BY-NC-SA 4.0 International License.
+# https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+# Modified Hosts Start
+
+# Localhost (DO NOT REMOVE) Start
+127.0.0.1	localhost
+::1	localhost
+::1	ip6-localhost
+::1	ip6-loopback
+# Localhost (DO NOT REMOVE) End
+
+
+
+
+
+# pixiv Start
+210.129.120.43 pixiv.net
+210.129.120.43 www.pixiv.net
+210.129.120.43 app-api.pixiv.net
+210.129.120.43 accounts.pixiv.net
+210.129.120.43 touch.pixiv.net
+210.129.120.43 oauth.secure.pixiv.net
+210.140.131.144 source.pixiv.net
+210.140.131.145 imgaz.pixiv.net
+210.140.131.159 d.pixiv.org
+210.140.92.135 pixiv.pximg.net
+210.140.92.136 i.pximg.net
+# pixiv End
